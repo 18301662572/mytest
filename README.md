@@ -1,6 +1,9 @@
 # 练习
 
 **mytest**
+
+signdemo-->迁移到 sign-rpc 
+
 ```text
 
 signdemo       使用rpc实现签到功能 (实现了 对外REST，对内RPC的服务部署及外部访问http )
